@@ -1,4 +1,4 @@
-#Gitcoin Task 2
+# Gitcoin Task 2
 
 # Screenshot of console after deploying smart contract
 <img src="https://github.com/hodlrtodlrfarmr/gitcoin_2/blob/main/deployed_smart_contract.png">
